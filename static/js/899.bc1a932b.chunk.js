@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkstep_tracker=self.webpackChunkstep_tracker||[]).push([[899],{2899:(e,t,r)=>{r.r(t),r.d(t,{BackgroundstepWeb:()=>o});var n=r(5403);class o extends n.E_{checkAndRequestPermission(){throw new Error("Method not implemented.")}serviceStart(){throw new Error("Method not implemented.")}serviceStop(){throw new Error("Method not implemented.")}async echo(e){return console.log("ECHO",e),e}async getToday(){return{count:0}}async getStepData(e){return console.log("TERM",e),{count:0}}}}}]);
+//# sourceMappingURL=899.bc1a932b.chunk.js.map
