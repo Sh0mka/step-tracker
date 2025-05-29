@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.96703f6a.js",
-    "index.html": "/index.html",
-    "main.96703f6a.js.map": "/static/js/main.96703f6a.js.map"
+    "main.js": "/step-tracker/static/js/main.96703f6a.js",
+    "index.html": "/step-tracker/index.html",
+    "main.96703f6a.js.map": "/step-tracker/static/js/main.96703f6a.js.map"
   },
   "entrypoints": [
     "static/js/main.96703f6a.js"
