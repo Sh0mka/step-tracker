@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/step-tracker/static/js/main.43bfd2eb.js",
+    "main.js": "/step-tracker/static/js/main.f1f1e2d5.js",
     "static/js/899.bc1a932b.chunk.js": "/step-tracker/static/js/899.bc1a932b.chunk.js",
     "index.html": "/step-tracker/index.html",
-    "main.43bfd2eb.js.map": "/step-tracker/static/js/main.43bfd2eb.js.map",
+    "main.f1f1e2d5.js.map": "/step-tracker/static/js/main.f1f1e2d5.js.map",
     "899.bc1a932b.chunk.js.map": "/step-tracker/static/js/899.bc1a932b.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.43bfd2eb.js"
+    "static/js/main.f1f1e2d5.js"
   ]
 }
